@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio2\\Exercicio 2\\Exercicio 2.csproj": {}
+    "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio3\\Exercicio3\\Exercicio3.csproj": {}
   },
   "projects": {
-    "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio2\\Exercicio 2\\Exercicio 2.csproj": {
+    "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio3\\Exercicio3\\Exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio2\\Exercicio 2\\Exercicio 2.csproj",
-        "projectName": "Exercicio 2",
-        "projectPath": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio2\\Exercicio 2\\Exercicio 2.csproj",
+        "projectUniqueName": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio3\\Exercicio3\\Exercicio3.csproj",
+        "projectName": "Exercicio3",
+        "projectPath": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio3\\Exercicio3\\Exercicio3.csproj",
         "packagesPath": "C:\\Users\\enzo.fattah\\.nuget\\packages\\",
-        "outputPath": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio2\\Exercicio 2\\obj\\",
+        "outputPath": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio3\\Exercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enzo.fattah\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace Exercicio_2
+﻿namespace Exercicio_2
 {
     public class Cadastro
     {
