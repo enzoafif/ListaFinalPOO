@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio 1\\Exercicio 1\\Exercicio 1.csproj": {}
+    "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio1\\Exercicio 1\\Exercicio 1.csproj": {}
   },
   "projects": {
-    "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio 1\\Exercicio 1\\Exercicio 1.csproj": {
+    "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio1\\Exercicio 1\\Exercicio 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio 1\\Exercicio 1\\Exercicio 1.csproj",
+        "projectUniqueName": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio1\\Exercicio 1\\Exercicio 1.csproj",
         "projectName": "Exercicio 1",
-        "projectPath": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio 1\\Exercicio 1\\Exercicio 1.csproj",
+        "projectPath": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio1\\Exercicio 1\\Exercicio 1.csproj",
         "packagesPath": "C:\\Users\\enzo.fattah\\.nuget\\packages\\",
-        "outputPath": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio 1\\Exercicio 1\\obj\\",
+        "outputPath": "D:\\Facul\\Lista de Exercicios 2B POO\\Exercicio1\\Exercicio 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enzo.fattah\\AppData\\Roaming\\NuGet\\NuGet.Config",
